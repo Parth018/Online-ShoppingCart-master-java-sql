@@ -1,5 +1,5 @@
 # Online Shopping Cart (E-Commerce Website)
-- Youtube Video for introduction, demo and setup for this Project: https://www.youtube.com/watch?v=RgQG0_orFpM
+<!-- - Youtube Video for introduction, demo and setup for this Project: https://www.youtube.com/watch?v=RgQG0_orFpM -->
 <!-- - YouTube video for step by step local setup of similar project: https://www.youtube.com/watch?v=mLFPodZO8Iw&t=8s -->
 <!-- Live site url: https://ellisonelectronics.herokuapp.com -->
 This is an E-Commerce Website build for selling of any electronics products online.
@@ -40,13 +40,13 @@ Note: The payment page is created only for demo purpose and its not fully integr
 - MySql
 
 ### ================ Software And Tools Required ================
-- : Git [https://www.youtube.com/watch?v=gv7VPQ4LZ7g]
-- : Java JDK 8+ [https://www.youtube.com/watch?v=O9PWH9SeTTE]
-- : Eclipse EE (Enterprise Edition) [https://www.youtube.com/watch?v=8aDsEV7txXE]
-- : Apache Maven [https://www.youtube.com/watch?v=jd2zx3dLjuw]
-- : Tomcat v8.0+ [https://youtu.be/mLFPodZO8Iw?t=903]
-- : MySQL Server [https://www.youtube.com/watch?v=Ydh5jYA6Frs]
-- : MySQL Workbench [https://www.youtube.com/watch?v=t79oCeTXHwg]
+- : Git 
+- : Java JDK 8+ 
+- : Eclipse EE (Enterprise Edition) 
+- : Apache Maven 
+- : Tomcat v8.0+ 
+- : MySQL Server 
+- : MySQL Workbench 
 
 ### ================= Dummy Database Initialization =================
 STEP 1: Open MySQL Command Prompt or MySQL Workbench
@@ -153,6 +153,6 @@ Note:- This is a Sample Project for learning purpose, we have not much considere
 
 <bold>Thanks a lot,</bold><br/>
                                                                                                         Project Leader<br/>
-                                                                                                         <b>Shashi Raj</b>
+                                                                                                         <b>Parth</b>
 
 
