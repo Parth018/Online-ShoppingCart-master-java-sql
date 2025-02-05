@@ -10,7 +10,7 @@ In this project, a user can visit the websites, register, and log in to the webs
 
 The admin also plays an important role in this project as the admin is the one responsible for adding any product to the store, updating the items, removing the items from the store, and managing the inventory. The admin can see all the product orders placed and also can mark them as shipped or delivered based on the conditions.
 
-One of the best functionalities that the projects include is mailing the customers, so once a user registers to the website, they will receive a mail for the successful registration to the website, and along with that whenever a user orders any product or the product got shipped from the store, then the user will also receive the email for its confirmation.
+One of the best functionalities that the projects include is mailing the customers, so once a user registers to the website, they will receive a mail for the successful registration to website, & along with that whenever a user orders any product or the product got shipped from the store, then the user will also receive the email for its confirmation.
 Sometimes, if the user tries to add any item out of stock, they will get an email once the item is available again.
 
 Note: The payment page is created only for demo purposes and it's not fully integrated with any payment gateway. So, any credit card details will accepted, and the demo orders will be placed.
