@@ -42,11 +42,11 @@ Note: The payment page is created only for demo purposes and it's not fully inte
 ### ================ Software And Tools Required ================
 - : Git 
 - : Java JDK 8+ 
-- : Eclipse EE (Enterprise Edition) 
-- : Apache Maven 
+-: Eclipse EE (Enterprise Edition) 
+-: Apache Maven 
 - : Tomcat v8.0+ 
-- : MySQL Server 
-- : MySQL Workbench 
+-: MySQL Server 
+-: MySQL Workbench 
 
 ### ================= Dummy Database Initialization =================
 STEP 1: Open MySQL Command Prompt or MySQL Workbench
@@ -55,20 +55,20 @@ STEP 2: Log in to the administrator user of MySql:
 	 ```MySQL -u <username> -p``` (Enter Password if asked)
 
 STEP 3: Copy paste and execute the MySQL Query from the following file:-
-- Run the Sql Query From this file: [databases/mysql_query.sql](./databases/mysql_query.sql)
+- Run the SQL Query From this file: [databases/mysql_query.sql](./databases/mysql_query.sql)
 
 ### ======GENERATING GMAIL APP PASSWORD [For Mailing Functionalities]========
-Step 1: Create a gmail account or login to existing account in any browser
+Step 1: Create a Gmail account or log in to an existing account in any browser
 
-Step 2 : Go to [https://myaccount.google.com/security](https://myaccount.google.com/security) and check if 2 step verifications is enabled or not, enable it if not enabled
+Step 2: Go to [https://myaccount.google.com/security](https://myaccount.google.com/security) and check if 2-step verification is enabled or not, enable it if not enabled
 
 Step 3: Go to [https://myaccount.google.com/apppasswords](https://myaccount.google.com/apppasswords) and enter password if asked
 
 Step 4: In Select an App Section: select Other (custom name) => enter "Ellison Electronics" => Generate
 
-Step 5: After that it will generate 16 digits app password which you need to copy and save for future configurations.
+Step 5: After that, it will generate 16 digits app password which you need to copy and save for future configurations.
 
-Step 6: Done : Now continue to importing the project. [Don't share the above password generated to anyone]
+Step 6: Done: Now continue to import the project. [Don't share the above password generated to anyone]
 
 ### ========== Importing and Running The Project Through Eclipse EE ==========
 
