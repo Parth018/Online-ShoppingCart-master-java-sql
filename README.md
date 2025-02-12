@@ -10,7 +10,7 @@ In this project, a user can visit the websites, register, and log in to the webs
 
 The admin also plays an important role in this project as the admin is the one responsible for adding any product to the store, updating the items, removing the items from the store, and managing the inventory. The admin can see all the product orders placed and also can mark them as shipped or delivered based on the conditions.
 
-One of the best functionalities that the projects include is mailing the customers, so once a user registers to the website, they will receive a mail for the successful registration to website, & along with that whenever a user orders any product or the product got shipped from the store, then the user will also receive the email for its confirmation.
+One of the best functionalities that the projects include is mailing the customers, so once a user registers to the website, they will receive a mail for the successful registration to the website, & along with that whenever a user orders any product or the product got shipped from the store, then the user will also receive the email for its confirmation.
 Sometimes, if the user tries to add any item out of stock, they will get an email once the item is available again.
 
 Note: The payment page is created only for demo purposes and it's not fully integrated with any payment gateway. So, any credit card details will accepted, and the demo orders will be placed.
@@ -77,8 +77,8 @@ Step 1: Open Eclipse Enterprise Edition. [Install, if not already installed.]
 Step 2: Click On File > Import > Git > Projects From Git > Clone Uri > Paste The Repository Url as: ```https://github.com/shashirajraja/shopping-cart.git```> Select master Branch > Next > Next > Finish.
 
 Step 3: Go inside ```Java Resources > src > application.properties``` and update the values as below:
-- a) Update value for db.username and db.password according to your installed mysql credentials.
-- b) Update value for mailer.email and mailer.password, with the same email and app password that you generated earlier in above section [ NOTE:Actual gmail password will not work]
+- a) Update value for db. username and db. password according to your installed mysql credentials.
+- b) Update value for mailer.email and mailer. password, with the same email and app password that you generated earlier in the above section [ NOTE: Actual Gmail password will not work]
 
 Step 4: Right Click on Project > Run as > Maven Build > In the goals field enter "clean install" > apply > run
 
@@ -106,10 +106,10 @@ Step 11: The default Username And Password For User Is "guest@gmail.com" And "gu
 ## FAQ
 **Question:1** Unable to Connect to Database?
 
-**Answer:** Please check you have installed the mysql correctly and have updated the correct db details in application.properties file. Also you can try doing maven clean install and force update the project and restart.
+**Answer:** Please check you have installed the MySQL correctly and have updated the correct db details in application.properties file. Also you can try doing maven clean install and force update the project and restart.
 <hr>
 
-Note:- This is a Sample Project for learning purpose, we have not much considered of web security.
+Note:- This is a Sample Project for learning purposes, we have not much considered of web security.
 
 #### Some Screenshots for the project:
 - Home Page
