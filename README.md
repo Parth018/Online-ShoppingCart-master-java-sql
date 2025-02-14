@@ -1,7 +1,7 @@
 # Online Shopping Cart (E-Commerce Website)
 <!-- - Youtube Video for introduction, demo and setup for this Project: https://www.youtube.com/watch?v=RgQG0_orFpM -->
 <!-- - YouTube video for step-by-step local setup of similar project: https://www.youtube.com/watch?v=mLFPodZO8Iw&t=8s -->
-<!-- Live site url: https://ellisonelectronics.herokuapp.com -->
+<!-- Live site URL: https://ellisonelectronics.herokuapp.com -->
 This is an e-commerce website built to sell electronics products online.
 
 ### About
@@ -101,12 +101,12 @@ Step 9:  [To Change the Port, if getting error like 'port already in use'] Open 
 
 Step 10: Default Username And Password For Admin Is "admin@gmail.com" And "admin"
 
-Step 11: The default Username And Password For User Is "guest@gmail.com" And "guest"
+Step 11: The default Username And Password For the User Is "guest@gmail.com" And "guest"
 
 ## FAQ
 **Question:1** Unable to Connect to Database?
 
-**Answer:** Please check you have installed the MySQL correctly and have updated the correct db details in application.properties file. Also you can try doing maven clean install and force update the project and restart.
+**Answer:** Please check you have installed MySQL correctly and have updated the correct db details in the application.properties file. Also, you can try doing Maven clean install and force update the project and restart.
 <hr>
 
 Note:- This is a Sample Project for learning purposes, we have not much considered of web security.
