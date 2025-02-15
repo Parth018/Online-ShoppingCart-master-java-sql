@@ -97,7 +97,7 @@ Step 7: Tomcat Configurations:
 
 Step 8: Check Running The Site At  [http://localhost:8080/shopping-cart/](http://localhost:8080/shopping-cart/)
 
-Step 9:  [To Change the Port, if getting error like 'port already in use'] Open The Server Tab > Double Click On Tomcat Server > Ports > Change The Port Number For Http/1.1 To 8083 > Close And Save. Now Start and you can access the project on [http://localhost:8083/shopping-cart/](http://localhost:8083/shopping-cart/)
+Step 9:  [To Change the Port, if getting an error like 'port already in use'] Open The Server Tab > Double Click On Tomcat Server > Ports > Change The Port Number For HTTP/1.1 To 8083 > Close And Save. Now Start and you can access the project on [http://localhost:8083/shopping-cart/](http://localhost:8083/shopping-cart/)
 
 Step 10: Default Username And Password For Admin Is "admin@gmail.com" And "admin"
 
@@ -106,10 +106,10 @@ Step 11: The default Username And Password For the User Is "guest@gmail.com" And
 ## FAQ
 **Question:1** Unable to Connect to Database?
 
-**Answer:** Please check you have installed MySQL correctly and have updated the correct db details in the application.properties file. Also, you can try doing Maven clean install and force update the project and restart.
+**Answer:** Please check you have installed MySQL correctly and have updated the correct db details in the application.properties file. Also, you can try doing a Maven clean install and force update the project, and restart.
 <hr>
 
-Note:- This is a Sample Project for learning purposes, we have not much considered of web security.
+Note:- This is a Sample Project for learning purposes, we have not much-considered web security.
 
 #### Some Screenshots for the project:
 - Home Page
