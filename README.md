@@ -13,7 +13,7 @@ The admin also plays an important role in this project as the admin is the one r
 One of the best functionalities that the projects include is mailing the customers, so once a user registers to the website, they will receive a mail for the successful registration to the website, & along with that whenever a user orders any product or the product got shipped from the store, then the user will also receive the email for its confirmation.
 Sometimes, if the user tries to add any item out of stock, they will get an email once the item is available again.
 
-Note: The payment page is created only for demo purposes and it's not fully integrated with any payment gateway. So, any credit card details will accepted, and the demo orders will be placed.
+Note: The payment page is created only for demo purposes and it's not fully integrated with any payment gateway. So, any credit card details will accepted, and demo orders will placed.
 
 ## Highlights :--
 
