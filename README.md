@@ -24,13 +24,13 @@ Note: The payment page is created only for demo purposes and it's not fully inte
 - Successful shipment and delivery of the Item
 
 ### Technologies used:-
-1. Front-End Development:
+1. Front-End:
 - HTML
 - CSS
 - Javascript
 - BootStrap
 
-2. Back-End Development:
+2. Back-End:
 - Java [JDK 8+]
 - JDBC
 - Servlet
